@@ -17,4 +17,9 @@ if any modification or new files are created then after adding (they get staged)
 git add index.html
 modified-> git add README.md
 or to do at a time just use ->git add . -->
+<!-- to commit-> record of change 
+git commit -m "any meaningful message" -->
+<!--if new file is just in vs code not yet pushed into the github the it show "your branch is ahed of 'origin/main'by commit. "-->
+<!-- to push file-upload local repo content to remote repo
+git push origin main -->
 Author-Jyoti Karagi

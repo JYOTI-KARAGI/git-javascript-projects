@@ -1,5 +1,13 @@
-# git-javascript-projects
-My Javascript Projects are Available here
+# Javascript-project-Theme_switcher
+
+<h3>A simple and responsive web app that allows users to toggle between different themes. Built using HTML, CSS, and JavaScript. Enhances user experience by supporting preferred visual modes with a sleek toggle UI.</h3>
+
+<h4>Features:</h4>
+<ul><li>Light/Dark mode toggle</li>
+
+<li>Smooth transition effects</li>
+
+<li>Mobile responsive layout</li></ul>
 <!-- clone a folder on our local machine 
 git clone <-folder link from git hub->
 in terminal to add current directory use cd then foldername

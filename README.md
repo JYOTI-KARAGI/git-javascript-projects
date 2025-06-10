@@ -1,6 +1,6 @@
 # Javascript-project-Theme_switcher
 
-<h3>A simple and responsive web app that allows users to toggle between different themes. Built using HTML, CSS, and JavaScript. Enhances user experience by supporting preferred visual modes with a sleek toggle UI.</h3>
+<h4>A simple and responsive web app that allows users to toggle between different themes. Built using HTML, CSS, and JavaScript. Enhances user experience by supporting preferred visual modes with a sleek toggle UI.</h4>
 
 <h4>Features:</h4>
 <ul><li>Light/Dark mode toggle</li>
